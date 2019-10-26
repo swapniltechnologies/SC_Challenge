@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "374077002387",
+    "firebase_url": "https://sahla-56e45.firebaseio.com",
+    "project_id": "sahla-56e45",
+    "storage_bucket": "sahla-56e45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374077002387:android:7bd7e4dc6a72dc5ab53366",
+        "android_client_info": {
+          "package_name": "com.example.snartstadium"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374077002387-rk4i9qcvb1a2plfjjinp0a01nsh8glou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFhDRwZ9yTxwiJEwrxL0gwh4Bf0MTdifo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374077002387-rk4i9qcvb1a2plfjjinp0a01nsh8glou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
